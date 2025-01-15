@@ -29,5 +29,5 @@ Switch4　E0/1コスト219　E0/2コスト100
 
 コストからSwitch1のRPはF0/2、Switch4のRPはE0/2、Switch2のRPはF0/1になる。
 Switch2のRPの対向ポートなので、Switch1のF0/1がDPになる。
-残りのSwitch2のF0/2とSwitch4のE0/1はSwitch2のコストが200、Switch4のコストが219なので、Switch2のF0/2がDPになる。
-よって、Switch4のE0/1がBPになる。
+残りのSwitch2のF0/2とSwitch4のE0/1はSwitch2のコストが119、Switch4のコストが100なので、Switch4のE0/1がDPになる。
+よって、Switch2のF0/2がBPになる。
